@@ -21,4 +21,3 @@ Master autonomous flight software engineering skills as you learn about drone ro
 ## Term 2
 Cancelled by Udacity
 
-![img](fcndcert.png)
